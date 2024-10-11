@@ -1,7 +1,6 @@
-Instructions
+# Instructions
+1) Clone repo
+2) Run npm install, then npm run dev
+3) Point browser to localhost:5173 for demo
 
-Run npm install, then npm run dev
-
-Point browswer to localhost:5173 for demo
-
-Homework html and js files are in /homework/poster
+Homework html and js files are in /homework/poster folder
