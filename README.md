@@ -1,4 +1,4 @@
-Instructions.
+Instructions
 
 Run npm install, then npm run dev
 
